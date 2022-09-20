@@ -1,11 +1,14 @@
-{
-  "object": {
-    "pins": [
+{+62 813-9068-1256}
+  "objek": {wh
+    "pin": [260304}
       {
         "package": "PhoneNumberKit",
         "repositoryURL": "https://github.com/marmelroy/PhoneNumberKit.git",
         "state": {
-          "branch": null,
+       
+          "cabang": no
+          
+    l,
           "revision": "dacede2d256b2807a1c5b4906a9c87c9f6f32fa3",
           "version": "3.3.0"
         }
@@ -14,3 +17,4 @@
   },
   "version": 1
 }
+®kami
